@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/padrao_bridge/padrao_bridge.iml" filepath="$PROJECT_DIR$/padrao_bridge/padrao_bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/padroes.iml" filepath="$PROJECT_DIR$/.idea/padroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/papapilhas/papapilhas.iml" filepath="$PROJECT_DIR$/papapilhas/papapilhas.iml" />
     </modules>
   </component>
 </project>
