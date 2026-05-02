@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/implementacao_debate/implementacao_debate.iml" filepath="$PROJECT_DIR$/implementacao_debate/implementacao_debate.iml" />
       <module fileurl="file://$PROJECT_DIR$/padrao_bridge/padrao_bridge.iml" filepath="$PROJECT_DIR$/padrao_bridge/padrao_bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/padroes.iml" filepath="$PROJECT_DIR$/.idea/padroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/papapilhas/papapilhas.iml" filepath="$PROJECT_DIR$/papapilhas/papapilhas.iml" />
